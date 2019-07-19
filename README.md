@@ -2,6 +2,8 @@
 
 A template to show debug information when working on voila applications.
 
+![screencast](./screencast.gif)
+
 ## Installation
 
 ```
